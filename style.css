@@ -41,7 +41,7 @@ div .card {
     margin-bottom: -145px;
 }
 .col {
-    margin-top: 0px;
+    margin-top: 10px;
     position: center;
     margin-bottom: 75px;
     display: flex;
@@ -53,6 +53,6 @@ div .card {
 .vod {
     position: fixed;
     right: 1.5%;
-    top: 12%;
+    top: 11.4%;
     color: rgb(192, 98, 98);
 }
